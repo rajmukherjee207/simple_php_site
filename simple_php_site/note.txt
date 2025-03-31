@@ -1,0 +1,7 @@
+### How to Run:
+1. Save the files in your web server's root directory (`htdocs` in XAMPP or `www` in WAMP/LAMP).
+2. Start Apache and MySQL in your server.
+3. Import the SQL script into your MySQL database.
+4. Open `http://localhost/index.php` in your browser.
+
+This is a simple but functional PHP-MySQL website. created by raj mukherjee!
